@@ -14,3 +14,9 @@ bag capacity of n.
 steal using a bag capacity of n.
 
 (c) Compare your results.
+
+Note: 
+
+For the detailed report see `algo-assignment-report03.pdf`
+
+And for the code itself see `SmallestNumberOfItems.java`
